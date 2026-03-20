@@ -1,0 +1,21 @@
+{
+  "id": "adriano313/nemotron-lora-train-v1",
+  "title": "Nemotron LoRA Train v1",
+  "code_file": "kaggle_lora_train_v1.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": true,
+  "enable_internet": false,
+  "dataset_sources": [
+    "adriano313/mamba-ssm-offline-deps",
+    "adriano313/pytorch-cu128-blackwell"
+  ],
+  "competition_sources": [
+    "nvidia-nemotron-model-reasoning-challenge"
+  ],
+  "kernel_sources": [],
+  "model_sources": [
+    "metric/nemotron-3-nano-30b-a3b-bf16/transformers/default/1"
+  ]
+}
